@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+}
+
+.title {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.noresult {
+  text-align: center;
+  padding: 10%;
+}
