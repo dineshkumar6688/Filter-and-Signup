@@ -1,5 +1,3 @@
-# Filter-and-Signup
-
 # Backend-Signup
 Start the server - node index.js
 
